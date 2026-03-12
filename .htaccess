@@ -1,0 +1,28 @@
+<FilesMatch "^(install|seed-demo)\.php$">
+Require local
+</FilesMatch>
+
+DirectoryIndex buy.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Force HTTPS on hosting, but keep local XAMPP accessible over HTTP.
+RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)$ [NC]
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:CF-Visitor} !{"scheme":"https"}
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Preserve legacy HTML entry points after removing redirect wrapper files.
+RewriteRule ^agent\.html$ agent.php [R=302,L,NC]
+RewriteRule ^buy\.html$ buy.php [R=302,L,NC]
+RewriteRule ^index\.(php|html)$ buy.php [R=302,L,NC]
+RewriteRule ^login\.html$ login.php [R=302,L,NC]
+RewriteRule ^login-static\.html$ login.php [R=302,L,NC]
+RewriteRule ^property-details\.html$ property-details.php [R=302,L,NC,QSA]
+RewriteRule ^rent-details\.html$ rent-details.php [R=302,L,NC,QSA]
+RewriteRule ^rent\.html$ rent.php [R=302,L,NC]
+RewriteRule ^sell\.html$ sell.php [R=302,L,NC]
+RewriteRule ^sell-static\.html$ sell.php [R=302,L,NC]
+</IfModule>
