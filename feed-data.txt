@@ -1,0 +1,499 @@
+sell:
+SELL (10)
+1) Maple Residency Flat
+City: Indore
+Price: 4800000
+Area: 1180
+Type: Flat
+Beds: 2
+Furnish: Semi-Furnished
+Parking: Yes
+Age: 3
+Description: Bright two-bedroom apartment in a clean mid-rise community with quick access to schools, retail, and major roads.
+Image: https://images.pexels.com/photos/34360410/pexels-photo-34360410.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+2) Cedar Garden Villa
+City: Bhopal
+Price: 12500000
+Area: 2800
+Type: Villa
+Beds: 4
+Furnish: Furnished
+Parking: Yes
+Age: 5
+Description: A calm villa setup with a garden-facing frontage, generous living space, and a ready-to-move premium interior.
+Image: https://images.pexels.com/photos/35767028/pexels-photo-35767028.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+3) Willow Family House
+City: Pune
+Price: 7600000
+Area: 1950
+Type: House
+Beds: 3
+Furnish: Unfurnished
+Parking: Yes
+Age: 7
+Description: Family-ready independent house with a balanced layout, practical storage, and a quiet neighborhood setting.
+Image: https://images.pexels.com/photos/30503925/pexels-photo-30503925.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+4) Oakview Corner Plot
+City: Jaipur
+Price: 3200000
+Area: 2400
+Type: Plot
+Beds: 1
+Furnish: Unfurnished
+Parking: No
+Age: null
+Description: Corner residential plot in a growing neighborhood, suitable for custom home construction or long-term holding.
+Image: https://images.pexels.com/photos/4525178/pexels-photo-4525178.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+5) Riverstone Heights Apartment
+City: Ahmedabad
+Price: 6900000
+Area: 1420
+Type: Flat
+Beds: 3
+Furnish: Semi-Furnished
+Parking: Yes
+Age: 4
+Description: Well-planned apartment with open living space and easy access to business hubs.
+Image: https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+6) Palm Crest Duplex
+City: Surat
+Price: 9800000
+Area: 2100
+Type: Duplex
+Beds: 3
+Furnish: Furnished
+Parking: Yes
+Age: 6
+Description: Modern duplex with private terrace, bright interiors, and quiet lane frontage.
+Image: https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+7) Lakeview Row House
+City: Nagpur
+Price: 5400000
+Area: 1600
+Type: Row House
+Beds: 3
+Furnish: Unfurnished
+Parking: Yes
+Age: 8
+Description: Family row house with balanced layout, natural light, and nearby market access.
+Image: https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+8) Skypark Studio Loft
+City: Bengaluru
+Price: 4100000
+Area: 820
+Type: Studio
+Beds: 1
+Furnish: Furnished
+Parking: No
+Age: 2
+Description: Compact studio loft near tech corridor with smart storage and clean finishes.
+Image: https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+9) Heritage Garden Bungalow
+City: Lucknow
+Price: 11200000
+Area: 2600
+Type: Bungalow
+Beds: 4
+Furnish: Semi-Furnished
+Parking: Yes
+Age: 10
+Description: Spacious bungalow with wrap-around lawn and classic interior styling.
+Image: https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+10) Sunrise Valley Plot
+City: Hyderabad
+Price: 4500000
+Area: 3000
+Type: Plot
+Beds: 1
+Furnish: Unfurnished
+Parking: No
+Age: null
+Description: Investment-friendly plot near upcoming infrastructure with good road width.
+Image: https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+
+RENT (10)
+1) Maple Residency Rental Flat
+City: Indore
+Locality: Vijay Nagar
+Rent: 18000
+Deposit: 36000
+Area: 1050
+Type: Flat
+Beds: 2
+Baths: 2
+Furnish: Semi Furnished
+Available From: Immediate
+Tenant Type: Family / Working
+Parking: 1 Car
+Pet Friendly: No
+Description: Bright rental flat with balcony light, quick office access, and a calm mid-rise setting.
+Image: https://images.pexels.com/photos/17226654/pexels-photo-17226654.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+2) Cedar Garden Rental Villa
+City: Bhopal
+Locality: Arera Colony
+Rent: 42000
+Deposit: 84000
+Area: 2200
+Type: Villa
+Beds: 3
+Baths: 3
+Furnish: Furnished
+Available From: Immediate
+Tenant Type: Family / Working
+Parking: 2 Cars
+Pet Friendly: Yes
+Description: Private villa rental with lawn frontage, full furniture setup, and quiet residential access.
+Image: https://images.pexels.com/photos/35767028/pexels-photo-35767028.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+3) Willow Family Rental House
+City: Pune
+Locality: Baner
+Rent: 32000
+Deposit: 64000
+Area: 1650
+Type: House
+Beds: 3
+Baths: 2
+Furnish: Unfurnished
+Available From: Next Month
+Tenant Type: Family
+Parking: 1 Car
+Pet Friendly: Yes
+Description: Independent house rental with practical storage, balanced room sizes, and a family-ready layout.
+Image: https://images.pexels.com/photos/7031606/pexels-photo-7031606.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+4) Oak Metro Studio
+City: Indore
+Locality: Palasia
+Rent: 14000
+Deposit: 28000
+Area: 580
+Type: Studio
+Beds: 1
+Baths: 1
+Furnish: Furnished
+Available From: This Week
+Tenant Type: Working Professional
+Parking: Bike Parking
+Pet Friendly: No
+Description: Compact studio near transit with efficient storage, clean interiors, and low move-in friction.
+Image: https://images.pexels.com/photos/17191427/pexels-photo-17191427.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+5) Orchid Heights Flat
+City: Ahmedabad
+Locality: Prahlad Nagar
+Rent: 26000
+Deposit: 52000
+Area: 1180
+Type: Flat
+Beds: 2
+Baths: 2
+Furnish: Semi Furnished
+Available From: Immediate
+Tenant Type: Family / Working
+Parking: 1 Car
+Pet Friendly: No
+Description: Well-lit flat with balcony and quick access to cafes and main roads.
+Image: https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+6) Crestline Duplex Rental
+City: Surat
+Locality: Vesu
+Rent: 35000
+Deposit: 70000
+Area: 1750
+Type: Duplex
+Beds: 3
+Baths: 3
+Furnish: Furnished
+Available From: Immediate
+Tenant Type: Family
+Parking: 2 Cars
+Pet Friendly: Yes
+Description: Duplex with open living-dining zone and quiet residential surroundings.
+Image: https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+7) Lakeview Row House Rental
+City: Nagpur
+Locality: Dharampeth
+Rent: 24000
+Deposit: 48000
+Area: 1400
+Type: Row House
+Beds: 3
+Baths: 2
+Furnish: Unfurnished
+Available From: Next Month
+Tenant Type: Family
+Parking: 1 Car
+Pet Friendly: Yes
+Description: Practical row house with good light, storage, and quiet lane access.
+Image: https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+8) Skypark Studio Rental
+City: Bengaluru
+Locality: HSR Layout
+Rent: 22000
+Deposit: 44000
+Area: 600
+Type: Studio
+Beds: 1
+Baths: 1
+Furnish: Furnished
+Available From: This Week
+Tenant Type: Working Professional
+Parking: Bike Parking
+Pet Friendly: No
+Description: Efficient studio near tech offices with clean furniture and low-maintenance living.
+Image: https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+9) Heritage Bungalow Rental
+City: Lucknow
+Locality: Gomti Nagar
+Rent: 48000
+Deposit: 96000
+Area: 2400
+Type: Bungalow
+Beds: 4
+Baths: 3
+Furnish: Semi Furnished
+Available From: Immediate
+Tenant Type: Family
+Parking: 2 Cars
+Pet Friendly: Yes
+Description: Large bungalow rental with garden frontage and generous living space.
+Image: https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+10) Sunrise Valley Flat
+City: Hyderabad
+Locality: Gachibowli
+Rent: 30000
+Deposit: 60000
+Area: 1300
+Type: Flat
+Beds: 2
+Baths: 2
+Furnish: Semi Furnished
+Available From: Immediate
+Tenant Type: Family / Working
+Parking: 1 Car
+Pet Friendly: No
+Description: Clean flat close to IT hubs with quick transit access.
+Image: https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+
+
+
+
+rent 10 :
+RENT (10)
+1) Maple Residency Rental Flat
+City: Indore
+Locality: Vijay Nagar
+Rent: 18000
+Deposit: 36000
+Area: 1050
+Type: Flat
+Beds: 2
+Baths: 2
+Furnish: Semi Furnished
+Available From: Immediate
+Tenant Type: Family / Working
+Parking: 1 Car
+Pet Friendly: No
+Description: Bright rental flat with balcony light, quick office access, and a calm mid-rise setting.
+Image: https://images.pexels.com/photos/17226654/pexels-photo-17226654.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+2) Cedar Garden Rental Villa
+City: Bhopal
+Locality: Arera Colony
+Rent: 42000
+Deposit: 84000
+Area: 2200
+Type: Villa
+Beds: 3
+Baths: 3
+Furnish: Furnished
+Available From: Immediate
+Tenant Type: Family / Working
+Parking: 2 Cars
+Pet Friendly: Yes
+Description: Private villa rental with lawn frontage, full furniture setup, and quiet residential access.
+Image: https://images.pexels.com/photos/35767028/pexels-photo-35767028.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+3) Willow Family Rental House
+City: Pune
+Locality: Baner
+Rent: 32000
+Deposit: 64000
+Area: 1650
+Type: House
+Beds: 3
+Baths: 2
+Furnish: Unfurnished
+Available From: Next Month
+Tenant Type: Family
+Parking: 1 Car
+Pet Friendly: Yes
+Description: Independent house rental with practical storage, balanced room sizes, and a family-ready layout.
+Image: https://images.pexels.com/photos/7031606/pexels-photo-7031606.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+4) Oak Metro Studio
+City: Indore
+Locality: Palasia
+Rent: 14000
+Deposit: 28000
+Area: 580
+Type: Studio
+Beds: 1
+Baths: 1
+Furnish: Furnished
+Available From: This Week
+Tenant Type: Working Professional
+Parking: Bike Parking
+Pet Friendly: No
+Description: Compact studio near transit with efficient storage, clean interiors, and low move-in friction.
+Image: https://images.pexels.com/photos/17191427/pexels-photo-17191427.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+5) Orchid Heights Flat
+City: Ahmedabad
+Locality: Prahlad Nagar
+Rent: 26000
+Deposit: 52000
+Area: 1180
+Type: Flat
+Beds: 2
+Baths: 2
+Furnish: Semi Furnished
+Available From: Immediate
+Tenant Type: Family / Working
+Parking: 1 Car
+Pet Friendly: No
+Description: Well-lit flat with balcony and quick access to cafes and main roads.
+Image: https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+6) Crestline Duplex Rental
+City: Surat
+Locality: Vesu
+Rent: 35000
+Deposit: 70000
+Area: 1750
+Type: Duplex
+Beds: 3
+Baths: 3
+Furnish: Furnished
+Available From: Immediate
+Tenant Type: Family
+Parking: 2 Cars
+Pet Friendly: Yes
+Description: Duplex with open living-dining zone and quiet residential surroundings.
+Image: https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+7) Lakeview Row House Rental
+City: Nagpur
+Locality: Dharampeth
+Rent: 24000
+Deposit: 48000
+Area: 1400
+Type: Row House
+Beds: 3
+Baths: 2
+Furnish: Unfurnished
+Available From: Next Month
+Tenant Type: Family
+Parking: 1 Car
+Pet Friendly: Yes
+Description: Practical row house with good light, storage, and quiet lane access.
+Image: https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
+
+8) Skypark Studio Rental
+City: Bengaluru
+Locality: HSR Layout
+Rent: 22000
+Deposit: 44000
+Area: 600
+Type: Studio
+Beds: 1
+Baths: 1
+Furnish: Furnished
+Available From: This Week
+Tenant Type: Working Professional
+Parking: Bike Parking
+Pet Friendly: No
+Description: Efficient studio near tech offices with clean furniture and low-maintenance living.
+Image: https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: arjun
+
+9) Heritage Bungalow Rental
+City: Lucknow
+Locality: Gomti Nagar
+Rent: 48000
+Deposit: 96000
+Area: 2400
+Type: Bungalow
+Beds: 4
+Baths: 3
+Furnish: Semi Furnished
+Available From: Immediate
+Tenant Type: Family
+Parking: 2 Cars
+Pet Friendly: Yes
+Description: Large bungalow rental with garden frontage and generous living space.
+Image: https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: kavya
+
+10) Sunrise Valley Flat
+City: Hyderabad
+Locality: Gachibowli
+Rent: 30000
+Deposit: 60000
+Area: 1300
+Type: Flat
+Beds: 2
+Baths: 2
+Furnish: Semi Furnished
+Available From: Immediate
+Tenant Type: Family / Working
+Parking: 1 Car
+Pet Friendly: No
+Description: Clean flat close to IT hubs with quick transit access.
+Image: https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200
+Owner Key: meera
